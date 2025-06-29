@@ -24,16 +24,19 @@ _The main dashboard showing friend list and split bill form_
 ### Friends List
 
 ![Friends List](./public/FriendList.png)
+
 _Manage your friends with balance indicators_
 
 ### Add Friend
 
 ![Add Friend Form](./public/AddFriend.png)
+
 _Simple form to add new friends to your list_
 
 ### Split Bill
 
 ![Split Bill Form](./public/SplitBill.png)
+
 _Calculate and split bills with selected friends_
 
 ## 🚀 Quick Start
